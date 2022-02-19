@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on mobile develpment
 - 🌱 I’m currently learning Swift.
 - 📫 How to reach me: @pavani.art
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I fear spiders 🕷️
 
 
